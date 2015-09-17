@@ -28,10 +28,9 @@ beep off
 
 format long
 
-
-cd /Users/williamedwardhahn/Documents/MATLAB/robot/autocar1
-
 load MPCR_CarDriver1.mat
+
+
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
